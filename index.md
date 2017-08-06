@@ -22,8 +22,13 @@ In doing so, we enhance fundamental understanding of biological systems and dise
 * **Sridharakumar Narasimhan** (CH) _Data Analytics_
 * **Nirav Bhatt** (CH) _Process Analytics_
 
-##
-
+## Current Research Projects
+* **Metabolic plasticity and robustness** _Himanshu Sinha & Karthik Raman_
+* **Predicting Novel Metabolic Pathways through Subgraph Mining** _Karthik Raman & Sayan Ranu_
+* **Network Analysis of Protein Folding Pathways** _Athi N Naganathan & Sayan Ranu_
+* **Identifying context of mutation signatures in cancer genomes** _B Ravindran, Raghunathan Rengaswamy, Karthik Raman, Ashok Venkitaraman (MRC Cambridge)_
+* **Role of gut microbiota in autism** _Swagatika Sahoo & Raghunathan Rengaswamy_
+* **Identification of Disease Modules: DREAM challenge** _B Ravindran, Himanshu Sinha & Karthik Raman_
 
 ## Projects on GitHub
 ### [Fast-SL: efficient enumeration of synthetic lethals in metabolic networks](http://github.com/RamanLab/FastSL)
