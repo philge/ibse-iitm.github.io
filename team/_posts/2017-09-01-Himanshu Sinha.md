@@ -4,6 +4,7 @@ title: "Himanshu Sinha"
 position: Associate Professor, Department of Biotechnology, Indian Institute of Technology Madras. 
 email: sinha@iitm·ac·in
 image:
+alum: false
 ---
 Dr. Himanshu Sinha is an Assistant Professor at the [Indian Institute of Technology Madras] in the Department of [Biotechnology]. He is also a Co-ordinator for the Initiative for Biological Systems Engineering. His research Area is Complex Genetics, Systems Biology.
 
