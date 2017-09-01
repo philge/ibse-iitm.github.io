@@ -7,5 +7,5 @@ image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
 ---
-IBSE in-house workshop to be help on 9-September-2017.
+IBSE in-house workshop to be held on 9-September-2017.
 
