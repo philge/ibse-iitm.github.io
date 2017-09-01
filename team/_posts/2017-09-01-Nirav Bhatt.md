@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "*Nirav Bhatt"
+title: "Nirav Bhatt"
 position: Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
 email: niravbhatt@iitm.ac.in
 image: 
