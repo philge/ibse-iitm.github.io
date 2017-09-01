@@ -5,7 +5,7 @@
 
 ### TODOS
 
-See Issues on [the site](https://github.com/MalvikaS/ibse-iitm.github.io).
+See Issues on [the site](https://github.com/IBSE-IITM/ibse-iitm.github.io).
 
 ## How to add content
 
