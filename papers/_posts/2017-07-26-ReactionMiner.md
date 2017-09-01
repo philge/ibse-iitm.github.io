@@ -13,7 +13,7 @@ authors: "Sankar A, Ranu S, Raman K."
 image: /assets/images/papers/default-paper.svg
 pdf: 
 pdflink: 
-github: RamanLab/ReactionMiner
+github: https://github.com/RamanLab/ReactionMiner
 pmid: 
 pmcid: 
 f1000: 
