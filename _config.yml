@@ -8,29 +8,24 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: IBSE-IITM/ibse-iitm.github.io
+repository: drummondlab/drummondlab.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : IBSE
-tagline: Initiative for Biological Systems Engineering
+title : Drummond Lab
+tagline: Evolution and regulation of protein production and quality control
 institution:
-  url: https://www.iitm.ac.in/
-  name: Indian Institute of Technology, Madras
+  url: http://www.uchicago.edu
+  name: The University of Chicago
 department:
-  url: https://biotech.iitm.ac.in/
-  name: Department of Biotechnology
+  url: http://bmb.uchospitals.edu
+  name: Biochemistry & Molecular Biology
 author :
-  name : Karthik Raman
-  email : kraman @ iitm·ac·in
-  github : karthikraman
-  twitter : himanshu-lab
-author :
-  name : Himanshu Sinha
-  email : sinha @ iitm·ac·in
-  github : 
-  twitter : 
+  name : D. Allan Drummond
+  email : dadrummond@uchicago.edu
+  github : dad
+  twitter : dadrummond
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -41,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://ibse-iitm.github.io
+production_url : http://drummondlab.org
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

@@ -1,4 +1,4 @@
-# The IBSE main website
+# The Drummond Lab main website
 
 ##
 
