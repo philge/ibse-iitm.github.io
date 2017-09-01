@@ -4,6 +4,7 @@ title: "Karthik Raman"
 position: Assistant Professor, Department of Biotechnology, Indian Institute of Technology Madras.
 email: kramanⓐiitm·ac·in
 image:
+alum: false
 ---
 Dr. Karthik Raman is an Assistant Professor at the [Indian Institute of Technology Madras] in the Department of [Biotechnology]. He is also a Co-ordinator for the Initiative for Biological Systems Engineering and a member of Interdisciplinary Laboratory for Data Sciences (ILDS), IIT Madras. His research Area is Computational Systems Biology.
 
