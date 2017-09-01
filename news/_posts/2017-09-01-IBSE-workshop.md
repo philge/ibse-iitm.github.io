@@ -2,7 +2,7 @@
 layout: news
 title: "IBSE in-house workshop"
 author: "Malvika S"
-author_handle: "dad"
+author_handle: "ms"
 image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
