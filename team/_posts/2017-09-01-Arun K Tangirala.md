@@ -4,6 +4,7 @@ title: "Arun K Tangirala"
 position: Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
 email:  arunkt@iitm.ac.in
 image:
+alum: false
 ---
 Dr. Arun K Tangirala is a Professor at the [Indian Institute of Technology Madras] in the Department of [Chemical Engineering]. His research Area is Systems Theory.
 
