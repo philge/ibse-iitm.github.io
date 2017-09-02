@@ -1,8 +1,9 @@
 ---
 ---
 
-$font-size-base: 16px;
-$font-stack:    'Vollkorn', serif, 'Open Sans', sans-serif;
+$font-size-base: 14px;
+$font-stack: 'Fira Sans', sans-serif;
+$sansfont: 'Roboto', sans-serif;
 $primary-color: #000000;
 $subtle-color: #95a5a6;
 $font-weight-base: 300;
@@ -64,6 +65,7 @@ h6 {
 
 p {
 	font-weight: $font-weight-base;
+    font-family: $sansfont;
 }
 
 .hugespacer {
@@ -106,7 +108,7 @@ a.off {
 
 .big-member-photo {
 	// width: 300px;
-	max-width: 300px;
+	max-width: 200px;
 	// height: 400px;
 }
 
