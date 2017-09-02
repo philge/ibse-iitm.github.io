@@ -10,7 +10,7 @@ navorder: 2
 <div class="bigspacer"></div>
 {% for member in site.categories.team reversed %}
 	{% if member.alum == false %}
-	    {% cycle 'add rows': '<div class="row">', nil %}
+	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
 	  				<a class="pull-left" href="{{ member.url }}">
@@ -23,15 +23,15 @@ navorder: 2
 	  				</div>
 				</div>
 	        </div>	  
-	    {% cycle 'close rows': nil, '</div><div class="bigspacer"></div>' %}
+	    {% cycle 'close rows': <div class="rowb">, '</div><div class="bigspacer"></div>' %}
 	{% endif %}
 {% endfor %}
 
-{% cycle 'close rows': nil, '</div><div class="bigspacer"></div>', '</div><div class="bigspacer"></div>' %}
+<!-- {% cycle 'close rows': nil, '</div><div class="bigspacer"></div>', '</div><div class="bigspacer"></div>' %} -->
 
 
 <!-- comment out this next line if there are multiples of three members -->
-<!-- </div> -->
+</div>
 
 <div class="bigspacer"></div>
 
