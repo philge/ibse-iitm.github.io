@@ -11,7 +11,7 @@ navorder: 1
 We are an interdisciplinary group dedicated to pioneering innovative approaches and algorithms that integrate multi-dimensional data across scales to understand, predict and manipulate complex biological systems. This page lists a sampling of some of the ongoing projects at 
 IBSE.
 
-<div class="construction">
+<div class="construction pull-left">
   <hr/>
   Ongoing Projects
   <hr/>
@@ -30,10 +30,13 @@ IBSE.
   -->
   <div class='row'>
     <div class="col-md-6 paperbox">
-      <div class="smallhead media-heading"><a href="{{ project.url }}" class="off"><b>{{ project.title }}</b></a></div>
-      {{ project.content }}
+      <div class="smallhead media-heading">
+        <a href="{{ project.url }}" class="off"><b>{{ project.title }}</b></a>
+        <p><i><small>{{ project.people }}</small></i></p>
+      </div>
     </div><br/>
     <div class='col-md-8'>
+      {{ project.content }}
     </div>
   </div>
 </div>
