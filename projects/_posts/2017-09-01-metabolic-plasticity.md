@@ -6,7 +6,6 @@ handle:
 image: /assets/images/projects/
 category: project
 tags: [plasticity]
+people: Gayathri S, Himanshu Sinha & Karthik Raman
 ---
 {% include JB/setup %}
-
-Himanshu Sinha & Karthik Raman

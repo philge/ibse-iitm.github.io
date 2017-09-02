@@ -6,7 +6,6 @@ handle:
 image: /assets/images/projects/
 category: project
 tags: [cancer, mutations, genomic]
+people: B Ravindran, Raghunathan Rengaswamy, Karthik Raman, Ashok Venkitaraman (MRC Cambridge)
 ---
 {% include JB/setup %}
-
-B Ravindran, Raghunathan Rengaswamy, Karthik Raman, Ashok Venkitaraman (MRC Cambridge)
