@@ -7,7 +7,7 @@ email: sridharkrn@iitm.ac.in
 department: Department of Chemical Engineering
 handle: sridharkrn
 nickname: Sridharakumar N
-image: 
+image: /assets/images/people/sridhar.jpg
 alum: false
 ---
 Dr. Sridharakumar Narasimhan is an associate professor at the [Indian Institute of Technology Madras] in the Department of [Chemical Engineering].  His research Aream is Data Analytics.

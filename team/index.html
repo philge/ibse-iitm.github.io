@@ -10,7 +10,7 @@ navorder: 2
 <div class="bigspacer"></div>
 {% for member in site.categories.team reversed %}
 	{% if member.alum == false %}
-	    {% cycle 'add rows': '<div class="row">', nil, nil %}
+	    {% cycle 'add rows': '<div class="row">', nil %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
 	  				<a class="pull-left" href="{{ member.url }}">
@@ -18,11 +18,12 @@ navorder: 2
 	  				</a>
 	 			 	<div class="media-body">
 	    				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-	    				<p class="note">{{ member.position }}</p>
+                        <p class="note"><i>{{ member.position }}</i></p>
+	    				<p class="note">{{ member.interests }}</p>
 	  				</div>
 				</div>
 	        </div>	  
-	    {% cycle 'close rows': nil, nil, '</div><div class="bigspacer"></div>' %}
+	    {% cycle 'close rows': nil, '</div><div class="bigspacer"></div>' %}
 	{% endif %}
 {% endfor %}
 
@@ -30,7 +31,7 @@ navorder: 2
 
 
 <!-- comment out this next line if there are multiples of three members -->
-</div>
+<!-- </div> -->
 
 <div class="bigspacer"></div>
 
@@ -42,14 +43,14 @@ navorder: 2
 
 <div class="bigspacer"></div>
 <hr/>
-<div class="bigtitle text-center">Past Members</div>
+<div class="bigtitle text-center">Alumni</div>
 <div class="bigspacer"></div>
 <hr/>
 
 {% for member in site.categories.team %}
 	{% if member.alum == true %}
 	    {% cycle 'add alum rows': '<div class="row">', nil, nil %}
-			<div class="col-md-4 memberbox">
+			<div class="col-md-6 memberbox">
 				<div class="media">
 	  				<a class="pull-left" href="{{ member.url }}">
 	    				<img class="media-object member-photo" src="{{ member.image }}">

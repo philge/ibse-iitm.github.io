@@ -7,7 +7,7 @@ department: Department of Chemical Engineering
 email: raghur@iitm.ac.in
 handle: raghur
 nickname: Raghunathan R
-image:
+image: /assets/images/people/raghu.jpg
 alum: false
 ---
 Dr. Raghunathan Rengaswamy is a  Professor at the [Indian Institute of Technology Madras] in the Department of [Chemical Engineering]. His research Area's are Reinforcement Learning, Big Data Process Analytics, Machine Learning, Big Data.

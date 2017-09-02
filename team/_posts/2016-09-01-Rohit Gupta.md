@@ -4,7 +4,7 @@ title: "Rohit Gupta"
 position: Adjunct Faculty
 designation: Chief Information Officer, MedGenome
 email: rohit@iiitd.ac.in
-image: 
+image: /assets/images/people/rohitgupta.jpg
 alum: false
 ---
 Dr. Rohit Gupta is an Adjunct Faculty at IIITD and Chief Information Officer (CIO) at [MedGenome, Bangalore, India]. He also holds the position of Adjunct Faculty at IIT Madras, Chennai India. His research Aream is Genomic data analysis.

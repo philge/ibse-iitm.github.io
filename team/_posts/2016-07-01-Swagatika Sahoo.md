@@ -4,7 +4,7 @@ title: "Swagatika Sahoo"
 position: Core Faculty
 designation: Assistant Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
 email: sahoos@iitm.ac.in
-image:
+image: /assets/images/people/swagatika.png
 alum: false
 ---
 Dr. Swagatika Sahoo is an assistant Professor at the [Indian Institute of Technology Madras] in the Department of [Chemical Engineering]. Her research Area is Systems Biology of Metabolic Disorders.
