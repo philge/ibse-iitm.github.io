@@ -8,6 +8,10 @@ navorder: 2
 {% include JB/setup %}
 
 <div class="bigspacer"></div>
+<div class="bigspacer"></div>
+<div class="bigtitle text-center">Faculty</div>
+<div class="bigspacer"></div>
+<hr/>
 {% for member in site.categories.team reversed %}
 	{% if member.alum == false %}
 	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
