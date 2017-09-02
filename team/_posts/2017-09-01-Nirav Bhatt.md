@@ -5,7 +5,7 @@ position: Associate Faculty
 designation: Assistant Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
 department: Department of Chemical Engineering
 email: niravbhatt@iitm.ac.in
-image: 
+image: /assets/images/people/nirav-bhatt.jpg
 alum: false
 ---
 Dr. Nirav Bhatt is a  Professor at the [Indian Institute of Technology Madras] in the Department of [Chemical Engineering].  His research Area is Process Analytics.

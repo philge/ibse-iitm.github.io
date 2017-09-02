@@ -5,7 +5,7 @@ tagline: ""
 handle: 
 image: /assets/images/projects/
 category: project
-tags: [auDisease Modulestism, DREAM challenge]
+tags: [disease modules, DREAM, networks]
 ---
 {% include JB/setup %}
 
