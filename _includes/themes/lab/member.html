@@ -7,7 +7,7 @@
 	<div class="col-md-3">
 		<div class="media">
 			{% if member.image %}
-			<img class="pull-left pad-right big-member-photo" src="{{ member.image }}">
+			<img class="pull-left pad-right big-member-photo" src="{{ member.image }}" width="200 px">
 			{% endif %}
 		</div>
 	</div>
@@ -18,7 +18,9 @@
 			</div>
 			<br/>
 			<div class="smallhead">
-				{{ member.position }}
+				IBSE {{ member.position }}<br/>
+				{{ member.designation }}<br/><br/>
+				Research Interests: {{ member.interests }}
 			</div>
 		</div>
 	</div>				
