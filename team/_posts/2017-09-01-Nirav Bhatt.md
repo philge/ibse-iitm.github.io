@@ -1,7 +1,9 @@
 ---
 layout: member
 title: "Nirav Bhatt"
-position: Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
+position: Associate Faculty
+designation: Assistant Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
+department: Department of Chemical Engineering
 email: niravbhatt@iitm.ac.in
 image: 
 alum: false

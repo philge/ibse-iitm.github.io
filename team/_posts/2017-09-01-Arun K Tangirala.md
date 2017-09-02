@@ -1,7 +1,9 @@
 ---
 layout: member
 title: "Arun K Tangirala"
-position: Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
+position: Associate Faculty
+designation: Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
+department: Department of Chemical Engineering
 email:  arunkt@iitm.ac.in
 image:
 alum: false

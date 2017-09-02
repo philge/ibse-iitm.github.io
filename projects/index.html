@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Research"
-description: "Research projects"
+title: Research
+description: Research projects
 group: navigation
 navorder: 1
 ---
@@ -9,7 +9,7 @@ navorder: 1
 <div class="bigspacer"></div>
 <div class="construction">
   <hr/>
-  List of projects
+  Ongoing Projects
   <hr/>
 </div>
 {% for project in site.categories.projects %}
@@ -25,11 +25,11 @@ navorder: 1
   </div>
   -->
   <div class='row'>
-    <div class="col-md-4 paperbox">
-      <div class="smallhead media-heading"><a href="{{ project.url }}" class="off">{{ project.title }}</a></div>
-    </div>
-    <div class='col-md-8'>
+    <div class="col-md-6 paperbox">
+      <div class="smallhead media-heading"><a href="{{ project.url }}" class="off"><b>{{ project.title }}</b></a></div>
       {{ project.content }}
+    </div><br/>
+    <div class='col-md-8'>
     </div>
   </div>
 </div>

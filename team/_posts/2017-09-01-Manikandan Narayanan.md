@@ -1,7 +1,8 @@
 ---
 layout: member
-title: "Manikandan Narayanan"
-position: Staff research scientist, National Institute of Health, USA.
+title: Manikandan Narayanan
+position: Core Faculty (Dec 2017)
+designation: Staff research scientist, National Institute of Health, USA.
 email:  manikandan.narayanan@nih.gov
 image: 
 alum: false
