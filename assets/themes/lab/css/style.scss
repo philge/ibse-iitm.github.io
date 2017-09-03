@@ -322,6 +322,13 @@ strong {
 }
 
 .smallhead p {
+    font-size: $font-size-base;
+    font-family: "Roboto";
+    font-weight: $font-weight-base;
+    line-height: 20px;
+}
+
+.project-people {
 	font-size: 14px;
     font-style: italic;
     font-family: "Roboto";
