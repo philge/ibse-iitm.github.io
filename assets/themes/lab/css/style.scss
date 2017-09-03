@@ -115,7 +115,9 @@ a.off {
 .member-photo {
 	height: 20vw;
 	min-height: 100px;
-	max-height: 225px;
+	max-height: 180px;
+    box-shadow: 0px 16px 38px -12px rgba(0,0,0,0.56), 0px 4px 25px 0px rgba(0,0,0,0.12), 0px 8px 10px -5px rgba(0,0,0,0.2);
+    border-radius: 6px;
 }
 
 .member-name {
@@ -308,15 +310,23 @@ strong {
 }
 
 .head {
-	font-size: $font-size-base*2;
+	font-size: ceil($font-size-base*1.8);
 	font-weight: $font-weight-base;
 	line-height:30px;
 }
 
 .smallhead {
-	font-size: 19px;
+    font-size: 19px;
+    font-weight: $font-weight-base;
+    line-height: 23px;
+}
+
+.smallhead p {
+	font-size: 14px;
+    font-style: italic;
+    font-family: "Roboto";
 	font-weight: $font-weight-base;
-	line-height: 23px;
+	line-height: 20px;
 }
 
 .subtle {
