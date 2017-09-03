@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First post: Brand new website"
+title: "New website!"
 description: ""
 author_handle: Malvika
 category: blog
