@@ -6,7 +6,7 @@ author_handle: "malvika"
 image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
-brief: The 2nd IBSE in-house workshop will happen on 9-Sep-2017 in BT Seminar Hall. <a href="/news/IBSE-workshop">Schedule</a>
+brief: The 2nd IBSE in-house workshop will happen on 9-Sep-2017 in BT Seminar Hall. <a href="/news/IBSE-workshop-02">Schedule</a>
 ---
 IBSE in-house workshop to be held on 9-September-2017.
 
