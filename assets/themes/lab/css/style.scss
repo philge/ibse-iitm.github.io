@@ -254,6 +254,12 @@ strong {
 	text-align:center;
 }
 
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    width: auto;
+    height: 400px;
+    max-height: 400px;
+}
 
 // headings
 
