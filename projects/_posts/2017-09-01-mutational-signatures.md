@@ -5,7 +5,7 @@ tagline: ""
 handle: 
 image: /assets/images/projects/
 category: project
-tags: [cancer, mutations, genomic]
+tags: [cancer, mutations, genomics]
 people: B Ravindran, Raghunathan Rengaswamy, Karthik Raman, Ashok Venkitaraman (MRC Cambridge)
 ---
 {% include JB/setup %}

@@ -6,7 +6,7 @@ people: Aravind Sankar, Sayan Ranu and Karthik Raman
 handle: 
 image: /assets/images/projects/
 category: project
-tags: [Subgraph Mining]
+tags: [graph mining]
 ---
 {% include JB/setup %}
 

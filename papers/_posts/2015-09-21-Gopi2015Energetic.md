@@ -22,7 +22,7 @@ category: paper
 published: true
 peerreview: true
 review: false
-tags: [graph mining, metabolic networks]
+tags: [protein folding, graph theory]
 ---
 {% include JB/setup %}
 

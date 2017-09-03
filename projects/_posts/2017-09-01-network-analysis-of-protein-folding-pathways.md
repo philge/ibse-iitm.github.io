@@ -6,6 +6,6 @@ handle:
 image: /assets/images/projects/
 category: project
 people: Soundharajan Gopi, Sayan Ranu & Athi N Naganathan
-tags: [Protein Folding]
+tags: [protein folding]
 ---
 {% include JB/setup %}
