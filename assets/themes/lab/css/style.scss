@@ -416,3 +416,16 @@ strong {
   vertical-align:super;
   font-size:0.8em;
 }
+
+.mbtablestyle {
+    border-collapse: collapse;
+
+   > table, td, th {
+            border-top: 1px dotted;
+            border-bottom: 1px dotted;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+}
