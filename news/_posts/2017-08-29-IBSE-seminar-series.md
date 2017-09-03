@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "IBSE Seminar Series"
+title: "IBSE Seminar Series Inaugural Lecture"
 author: "Karthik Raman"
 author_handle: "kraman"
 image: /assets/images/news/default-news.png
