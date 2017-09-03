@@ -2,7 +2,8 @@
 layout: member
 title: "Michael Gromiha"
 position: Associate Faculty
-designation: Associate Professor, Department of Biotechnology, Indian Institute of Technology Madras. 
+designation: Associate Professor
+department: Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 email: gromiha@iitm·ac·in
 image: /assets/images/people/michael-gromiha.jpg
 alum: false

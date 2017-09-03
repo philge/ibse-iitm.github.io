@@ -2,7 +2,8 @@
 layout: member
 title: Karthik Raman
 position: Co-ordinator
-designation: Assistant Professor, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
+designation: Assistant Professor
+department: Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 nickname: Karthik Raman
 handle: kraman
 email: kraman@iitm·ac·in

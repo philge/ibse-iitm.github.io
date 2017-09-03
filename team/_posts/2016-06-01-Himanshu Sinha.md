@@ -2,7 +2,8 @@
 layout: member
 title: "Himanshu Sinha"
 position: Co-ordinator
-designation: Associate Professor, Department of Biotechnology, Indian Institute of Technology Madras
+designation: Associate Professor
+department: Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 email: sinha@iitm·ac·in
 interests: Systems Biology, Quantitative Genetics
 image: /assets/images/people/himanshu.jpg

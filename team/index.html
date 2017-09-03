@@ -21,8 +21,11 @@ navorder: 2
 	    				<img class="media-object member-photo" src="{{ member.image }}">
 	  				</a>
 	 			 	<div class="media-body">
-	    				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-                        <p class="note"><i>{{ member.position }}</i></p>
+	    				<div class="head media-heading member-name">
+	    					<a href="{{ member.url }}" class="off">{{ member.title }}</a>
+                        <p class="note"><b>{{ member.position }}</b></p>
+	    				</div>
+                        <p class="note"><i>{{ member.department }}</i></p>
 	    				<p class="note">{{ member.interests }}</p>
 	  				</div>
 				</div>

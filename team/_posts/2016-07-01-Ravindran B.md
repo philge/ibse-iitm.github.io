@@ -2,7 +2,8 @@
 layout: member
 title: "B Ravindran"
 position: Core Faculty
-designation: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Madras. 
+designation: Associate Professor
+department: Department of Computer Science and Engineering
 email: ravi@cse.iitm.ac.in
 interests: Reinforcement Learning, Machine Learning
 image: /assets/images/people/ravindran.jpg

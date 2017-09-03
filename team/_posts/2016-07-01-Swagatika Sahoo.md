@@ -2,7 +2,8 @@
 layout: member
 title: "Swagatika Sahoo"
 position: Core Faculty
-designation: Assistant Professor, Department of Chemical Engineering, Indian Institute of Technology Madras.
+designation: Assistant Professor
+department: Department of Chemical Engineering
 email: sahoos@iitm.ac.in
 image: /assets/images/people/swagatika.png
 alum: false

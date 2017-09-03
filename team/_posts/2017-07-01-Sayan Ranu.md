@@ -2,7 +2,8 @@
 layout: member
 title: Sayan Ranu
 position: Associate Faculty / Collaborator
-designation: Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Delhi. 
+designation: Assistant Professor
+department: Department of Computer Science and Engineering, IIT Delhi 
 email: sayan@cse.iitd.ac.in
 image: /assets/images/people/sayan.jpg
 alum: false

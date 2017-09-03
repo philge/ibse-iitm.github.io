@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Sridharakumar Narasimhan
+title: "Sridharakumar Narasimhan"
 position: Associate Faculty
-designation: Associate Professor, Department of Chemical Engineering, Indian Institute of Technology Madras
+designation: Associate Professor
 email: sridharkrn@iitm.ac.in
 department: Department of Chemical Engineering
 handle: sridharkrn
