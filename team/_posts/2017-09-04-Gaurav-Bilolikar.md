@@ -7,7 +7,7 @@ nickname: Gaurav
 handle: Hanuman
 email: gbilolikar@gmail.com
 interests: Evolutionary Biology, Metagenomics, Synthetic Biology
-image: /assets/photo/people/gaurav.jpg
+image: /assets/images/people/gaurav.jpg
 github: 
 twitter: 
 alum: false
