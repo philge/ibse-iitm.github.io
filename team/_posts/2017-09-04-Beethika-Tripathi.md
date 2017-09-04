@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: beethika.tripathi@gmail.com
 interests: Complex Network Analysis, Machine Learning, Deep Learning, Systems Biology 
-image: 
+image: /assets/images/people/beethika.jpg
 github: Beethika
 twitter: BeethikaT
 alum: false
