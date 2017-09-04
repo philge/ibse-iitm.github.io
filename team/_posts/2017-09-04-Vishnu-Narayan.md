@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Vishnu Narayan
-position: Student
+position: student
 designation: Dual Degree Student, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 nickname: 
 handle: 

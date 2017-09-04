@@ -1,8 +1,7 @@
 ---
 layout: member
 title: Shayantan Banerjee
-position: Co-ordinator
-designation: student
+position: student
 department: MS scholar, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 nickname: 
 handle: bongcon28
