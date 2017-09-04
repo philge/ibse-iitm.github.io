@@ -1,13 +1,14 @@
 ---
 layout: member
 title: Shayantan Banerjee
-position: student
-designation: MS scholar, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
+position: Co-ordinator
+designation: student
+department: MS scholar, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 nickname: 
 handle: bongcon28
 email: banerjeeshayantan@gmail.com
 interests: Machine learning methods applied to Next generation sequencing data
-image: 
+image: /assets/images/people/
 github: banerjeeshayantan
 twitter: 
 alum: false
