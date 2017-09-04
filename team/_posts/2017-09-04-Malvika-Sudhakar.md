@@ -6,7 +6,7 @@ nickname: Malvika
 handle: ms
 email: bt15d306@smail.iitm.ac.in
 interests: Computational biology, data analysis, machine learning, Multi-omic data
-image: 
+image: /assets/images/people/malvika.JPG
 github: MalvikaS
 twitter: MalvikaSud
 alum: false
