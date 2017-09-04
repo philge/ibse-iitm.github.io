@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: bt15s001@smail.iitm.ac.in
 interests: Deep learning, Machine Learning, Network Biology
-image: 
+image: /assets/images/people/karthik.jpg
 github: 
 twitter: karthikalam
 alum: false
