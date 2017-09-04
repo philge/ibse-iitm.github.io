@@ -6,7 +6,7 @@ nickname:
 handle: gayathri
 email: thisisme.gayu@gmail.com
 interests: Systems biology
-image: 
+image: /assets/images/people/Gayathri.jpg
 github: 
 twitter: 
 alum: false
