@@ -7,7 +7,7 @@ nickname: Krishna
 handle: krishnapriya 
 email: krishnapriya216@gmail.com
 interests: Gene-environment interaction, Translational regulation, Memory B-lymphocytes, Host-Pathogen interactions
-image: 
+image: /assets/images/people/Krishna_Priya.jpg
 github: 
 twitter: 
 alum: false
