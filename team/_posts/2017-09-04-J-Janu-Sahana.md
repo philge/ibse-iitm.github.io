@@ -7,7 +7,7 @@ nickname: Janu
 handle: Janu 
 email: janusahana95@gmail.com
 interests: Evolutionary Biology
-image: 
+image: /assets/images/people/Janu.jpg
 github: 
 twitter: 
 alum: false
