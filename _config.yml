@@ -24,13 +24,6 @@ department:
 author :
   name : Karthik Raman
   email : kraman @ iitm·ac·in
-  github : karthikraman
-  twitter : himanshu-lab
-author :
-  name : Himanshu Sinha
-  email : sinha @ iitm·ac·in
-  github : 
-  twitter : 
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -116,7 +109,7 @@ JB :
   analytics :
     provider : google
     google : 
-      tracking_id : 'UA-62008526-1'
+      tracking_id : 
     getclicky :
       site_id : 
     mixpanel :
