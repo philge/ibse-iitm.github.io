@@ -22,5 +22,5 @@ IBSE in-house workshop to be held on 9-September-2017.
 | 1145 - 1200 | Disease Module Identification in Biological Networks | Beethika Tripathi |
 | 1200 - 1215 | Understanding redundancies in metabolic networks through synthetic lethals | Omkar Mohite |
 | 1215 - 1230 | Novel sequence-based and network-based approaches to predict essential genes across diverse organisms| Karthik Azhagesan |
-| 1230 - 1245 | Prediction of tumour supressor genes and oncogenes from data | Malvika Sudhakar |
+| 1230 - 1245 | Binning of genes using optimisation | Malvika Sudhakar |
 {:.mbtablestyle}
