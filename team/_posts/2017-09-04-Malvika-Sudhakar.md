@@ -1,7 +1,7 @@
 ---
 title: Malvika Sudhakar
 position: student
-designation: PhD scholar, Department of Biotechnology, Department of Chemical Engineering
+designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences and Department of Chemical Engineering
 nickname: Malvika
 handle: ms
 email: bt15d306@smail.iitm.ac.in
