@@ -16,10 +16,15 @@
 			<div class="title media-heading">
 				{{ member.title }}
 			</div>
-			<br/>
 			<div class="smallhead">
-				IBSE {{ member.position }}<br/>
-				{{ member.designation }}<br/><br/>
+				{% if member.position != "student" %}
+				<i>IBSE {{ member.position }}</i><br/>
+				<br/>
+				{% endif %}
+			</div>
+			{{ member.designation }}<br/>
+			{{member.department}}<br/><br/>
+			<div class="smallhead">
 				Research Interests: {{ member.interests }}
 			</div>
 		</div>
