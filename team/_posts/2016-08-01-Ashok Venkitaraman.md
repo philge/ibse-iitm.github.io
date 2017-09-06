@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Ashok Venkitaraman"
-position: Chair Professor / Collaborator
+position: Collaborator / Chair Professor, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences
 department: Director, MRC Cancer Unit, University of Cambridge (UK)
 interests: Cancer Systems Biology, Genomic Instability in Cancer
 image: /assets/images/people/ashok-venkitaraman.jpg
