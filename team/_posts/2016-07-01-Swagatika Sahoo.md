@@ -4,6 +4,7 @@ title: "Swagatika Sahoo"
 position: Core Faculty
 designation: DST-INSPIRE Faculty
 department: Department of Chemical Engineering
+interests: Systems Biology of Metabolic Disorders
 email: sahoos@iitm.ac.in
 image: /assets/images/people/swagatika.png
 alum: false
