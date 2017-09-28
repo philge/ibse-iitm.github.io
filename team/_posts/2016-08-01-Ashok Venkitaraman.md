@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Ashok Venkitaraman"
-position: Collaborator / Mehta Distinguished Chair, IIT Madras
+position: Co-ordinator / Mehta Distinguished Chair, IIT Madras
 department: Director, MRC Cancer Unit, University of Cambridge (UK)
 interests: Cancer Systems Biology, Genomic Instability in Cancer
 image: /assets/images/people/ashok-venkitaraman.jpg
