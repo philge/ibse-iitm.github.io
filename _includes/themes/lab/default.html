@@ -33,7 +33,44 @@
     <!-- Math via MathJax -->
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+    <script type="text/javascript">
+      // Works like jQuery's $(document).ready.
+      // Supports IE8+. Courtesy of http://youmightnotneedjquery.com/
+      // Thanks: https://robwise.github.io/blog/javascript-external-links-open-new-window
+      function ready(fn) {
+        if (document.readyState != 'loading') {
+          fn();
+        } else if (document.addEventListener) {
+          document.addEventListener('DOMContentLoaded', fn);
+        } else {
+          document.attachEvent('onreadystatechange', function() {
+            if (document.readyState != 'loading')
+              fn();
+          });
+        }
+      }
 
+      ready(function() {
+
+        var website = window.location.hostname;
+
+        var internalLinkRegex = new RegExp('^((((http:\\/\\/|https:\\/\\/)(www\\.)?)?'
+                                           + website
+                                           + ')|(localhost:\\d{4})|(\\/.*))(\\/.*)?$', '');
+
+        var anchorEls = document.querySelectorAll('a');
+        var anchorElsLength = anchorEls.length;
+
+        for (var i = 0; i < anchorElsLength; i++) {
+          var anchorEl = anchorEls[i];
+          var href = anchorEl.getAttribute('href');
+
+          if (!internalLinkRegex.test(href)) {
+            anchorEl.setAttribute('target', '_blank');
+          }
+        }
+      });
+    </script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
