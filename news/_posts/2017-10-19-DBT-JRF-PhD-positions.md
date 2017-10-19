@@ -4,8 +4,9 @@ title: DBT-funded JRF and PhD positions
 author: Karthik Raman
 author_handle: kraman
 category: news
+image: /assets/images/news/DNA_sequence.png
 tags: [open positions]
-brief: Two positions available at the <a href="https://home.iitm.ac.in/kraman/lab/">Computational Systems Biology Lab</a>.
+brief: Two positions available at the <a href="https://home.iitm.ac.in/kraman/lab/open-positions/725/">Computational Systems Biology Lab</a>.
 ---
 
 ## Open Positions
