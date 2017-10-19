@@ -12,18 +12,18 @@ navorder: 6
   
 	{% if paginator.previous_page %}
 		{% if paginator.previous_page == 1 %}
-		<a class="prev" href="/{{ page.category }}/">
+		<a class="prev" href="{{ BASE_PATH }}/{{ page.category }}/">
 			<i class="fa fa-chevron-left fa-lg"></i>
 		</a>
 		{% else %}
-		<a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
+		<a class="prev" href="{{ BASE_PATH }}/{{ page.category }}/page{{ paginator.previous_page }}">
 			<i class="fa fa-chevron-left fa-lg"></i>
 		</a>
 		{% endif %}  		
 	{% endif %}  
   
 	{% if paginator.next_page %}  
-	<a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
+	<a class="next" href="{{ BASE_PATH }}/{{ page.category }}/page{{ paginator.next_page }}">
 		<i class="fa fa-chevron-right fa-lg"></i>
 	</a>	
 	{% endif %}  	
@@ -50,14 +50,14 @@ navorder: 6
 			<div class="smallnote">
 				{{ post.date | date_to_string }}
 				{% if author %}
-				by <a class="off" href="{{ author.url }}">{{ author.nickname }}</a>
+				by <a class="off" href="{{ BASE_PATH }}{{ author.url }}">{{ author.nickname }}</a>
 				{% endif %}				
 			</div>	
 			<div style="height:5px;"></div>			
-<!-- 			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			{% if post.image %}
+			<a href="{{ post.url }}"><img class="offset" src="{{ BASE_PATH }}{{ post.image }}"></a>
 			{% endif %}
- -->			<div class="post">
+			<div class="post">
 				{{ post.content }}
 			</div>
 		</div>			
