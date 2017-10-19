@@ -25,12 +25,10 @@ The burgeoning amounts of cancer genome data have opened several avenues for com
 ## Qualifications
 BE/BTech/MTech in any branch of engineering, with a GPA of 7.5 and above. Programming experience in at least one high-level programming language (e.g. Python) is mandatory. Some exposure to biological data analysis will be helpful; Familiarity with NGS data analysis pipelines / RNASeq will be a major plus.
 
-Interested candidates can send their CV by e-mail with subject line &quot;[DBT JRF]&quot; to:
+Interested candidates can send their CV by e-mail with subject line `[DBT JRF]` to:
 
-```
-Dr. Karthik Raman (kraman@iitm·ac·in)
-BT 104,  [Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences](https://biotech.iitm.ac.in/)
-Co-ordinator,  [Initiative for Biological Systems Engineering](https://web.iitm.ac.in/ibse)
-Member,  [Robert Bosch Centre for Data Sciences and Artificial Intelligence (RBC-DSAI)](https://rbcdsai.iitm.ac.in/)
+`Dr. Karthik Raman (kraman@iitm·ac·in)`
+BT 104,  [Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences](https://biotech.iitm.ac.in/)<br/>
+Co-ordinator,  [Initiative for Biological Systems Engineering](https://web.iitm.ac.in/ibse)<br/>
+Member,  [Robert Bosch Centre for Data Sciences and Artificial Intelligence (RBC-DSAI)](https://rbcdsai.iitm.ac.in/)<br/>
 Indian Institute of Technology Madras
-````
