@@ -13,11 +13,11 @@ Applications are invited for two **Junior Research Fellow (JRF)** positions in a
 
 ## PhD applications are also welcome
 
-Apply at [https://research.iitm.ac.in/](https://research.iitm.ac.in/) to one of the following departments:
-   (a) [Interdisciplinary Stream on "Data Science and Artificial Intelligence"](https://sites.google.com/a/smail.iitm.ac.in/iitm-idrp/home)
-   (b) Biotechnology
-   (c) Chemical Engineering
-   (d) Computer Science
+Apply at [https://research.iitm.ac.in/](https://research.iitm.ac.in/) to one of the following departments:<br>
+   (a) [Interdisciplinary Stream on "Data Science and Artificial Intelligence"](https://sites.google.com/a/smail.iitm.ac.in/iitm-idrp/home)<br>
+   (b) Biotechnology<br>
+   (c) Chemical Engineering<br>
+   (d) Computer Science<br>
 
 ## Project
 The burgeoning amounts of cancer genome data have opened several avenues for computational analysis of these sequences to gain insights into disease associations of genes, as well as the molecular bases of diseases. While many recent studies have proposed approaches to identify driver and passenger mutations in cancer genes, the studies have not examined the context of these mutations in detail, which might have significant influence on the effect of the mutations and the subsequent progression of cancer. In this study, we seek to apply a combination of statistical and machine learning techniques to analyse novel genomic data generated from [Cambridge](https://www.mrc-cu.cam.ac.uk/), as well as sequence data available in the public domain, to build a computational pipeline for the identification of the context of cancer mutations in genome sequences.
