@@ -6,7 +6,7 @@ author_handle: kraman
 image: /assets/images/news/victor.jpg
 category: news
 tags: [seminars]
-brief: <b>What transcriptional noise tells us about the cell inside</b> --- Prof. Victor de Lorenzo
+brief: The first talk of the IBSE seminar series will be delivered by Prof. Victor de Lorenzo.
 ---
 ## What transcriptional noise tells us about the cell inside
 
