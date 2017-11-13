@@ -7,7 +7,7 @@ nickname:
 handle: bongcon28
 email: banerjeeshayantan@gmail.com
 interests: Machine learning methods applied to Next generation sequencing data
-image: /assets/images/people/
+image: /assets/images/people/shayantan.jpg
 github: banerjeeshayantan
 twitter: 
 alum: false

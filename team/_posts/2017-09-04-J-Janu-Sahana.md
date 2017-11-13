@@ -7,10 +7,10 @@ nickname: Janu
 handle: Janu 
 email: janusahana95@gmail.com
 interests: Evolutionary Biology
-image: /assets/images/people/Janu.jpg
+image: /assets/images/people/Janu_Sahana.jpg
 github: 
 twitter: 
 alum: false
 ---
 
-"Born in Tamil Nadu and brought up in Kerala" is my go-to tagline I use to introduce myself. I'm currently pursuing my undergraduate degree in Biological Engineering. I'm very much passionate about dealing big data and currently I'm working on longitudinal analysis of gene expression data across evolution. Apart from big data, the one that amazes me a lot is music. In my free time, you would often find me dancing to the tunes and would never hesitate to pull out a few movements in any social gathering. I'm fondly referred to as the "Monica" of my F.R.I.E.N.D.S. gang because of my obsessive compulsive need to keep things clean. One of my favorite stress busters apart from dancing is organizing stuffs. To know me more, you can stop by for a chit-chat. Believe me, I'm really good at it.
+I'm currently in the final year of Dual degree (B.Tech. & M.Tech.) in Biological Engineering. I've worked on formulating an efficient drug delivery system using BSA nanoparticles that is convenient, localized and biocompatible and studied its drug release kinetics. I've also developed an algorithm to superpose three dimensional structures of multiple proteins, with a reduced computational complexity as compared to the existing algorithms. I'm currently working on longitudinal analysis of gene expression data across evolution, under the guidance of Prof. Himanshu Sinha, IIT Madras.

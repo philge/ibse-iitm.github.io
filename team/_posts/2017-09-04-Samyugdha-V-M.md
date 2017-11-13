@@ -7,7 +7,7 @@ nickname: Sam
 handle: 
 email: bt17s002@smail.iitm.ac.in
 interests: Variant genomics and Clinical Informatics
-image: 
+image: /assets/images/people/Samyugdha-Manoharan.jpg
 github: 
 twitter: 
 alum: false
