@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: ssriraghav@gmail.com
 interests: Population Genetics, Applications of Machine Learning and Data Mining to Biological Systems, Mathematical Modelling, Stochastic Calculus
-image: 
+image: /assets/images/people/sriraghav-srinivasan.jpg
 github: 
 twitter: 
 alum: false

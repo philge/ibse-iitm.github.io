@@ -13,4 +13,4 @@ twitter:
 alum: false
 ---
 
-I am currently doing my dual degree programme in Biological Engineering at IIT Madras. I am working on my dual degree project under Prof. Karthik Raman. My research interests are aligned towards high performance computing in relation to biological systems and Systems Biology.
+I am currently doing my dual degree programme in Biological Engineering at IIT Madras. I am working on my dual degree project under Prof. Karthik Raman. My research interests are aligned towards high performance computing in relation to biological systems and Systems Biology. 

@@ -7,7 +7,7 @@ nickname: Saransh
 handle: 
 email: saranshumale162@gmail.com
 research interests : Design principles underlying multi-scale biological phenomena, Non-linear dynamics of biochemical systems
-image:
+image: /assets/images/people/saransh.jpeg
 github: saranshumale
 twitter: UmaleSaransh
 alum: false

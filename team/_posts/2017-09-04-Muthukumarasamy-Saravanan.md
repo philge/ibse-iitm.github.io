@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: bs13b016@smail.iitm.ac.in
 interests: Computational Biology
-image: 
+image: /assets/images/people/Muthukumarasamy-Saravanan.jpg
 github: kumara0804
 twitter: 
 alum: false

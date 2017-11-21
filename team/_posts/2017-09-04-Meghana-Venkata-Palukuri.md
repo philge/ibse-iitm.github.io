@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: meghana.palukuri@gmail.com
 interests: Systems Biology, Optimization, Machine Learning, Graph theory, Modelling and Simulations, Dynamical Systems
-image: 
+image: /assets/images/people/Meghana-Palukuri.jpg
 github: meghanapalukuri
 twitter: MeghanaPalukuri
 alum: true
