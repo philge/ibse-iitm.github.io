@@ -3,7 +3,7 @@ layout: news
 title: "First International IBSE Symposium"
 author: "Karthik Raman"
 author_handle: "kraman"
-image: /assets/images/news/default-news.png
+image: /assets/images/news/symposium_flyer.jpg
 category: news
 tags: [symposium]
 brief: "The First IBSE International Symposium will be held at IIT Madras from 20-24 Jan, 2018"
