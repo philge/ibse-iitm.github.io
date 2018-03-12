@@ -2,7 +2,7 @@
 layout: member
 title: Omkar Mohite
 position: student
-designation: PhD Scholar, Technical University of Denmark.
+designation: PhD Scholar, Technical University of Denmark
 nickname: Omkar
 handle: 
 email: omkarmohite310@gmail.com
