@@ -6,7 +6,7 @@ designation: PhD scholar, Department of Biotechnology, Bhupat & Jyoti Mehta Scho
 nickname: Krishna
 handle: krishnapriya 
 email: krishnapriya216@gmail.com
-interests: Gene-environment interaction, Translational regulation, Memory B-lymphocytes, Host-Pathogen interactions
+interests: Gene regulation, Memory B-lymphocytes, Host-Pathogen interactions
 image: /assets/images/people/Krishna_Priya.jpg
 github: 
 twitter: 
