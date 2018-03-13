@@ -18,7 +18,7 @@ She completed her Ph.D. in systems biology at the [Systems biology, University o
 [Systems biology, University of Iceland]: https://systemsbiology.hi.is/
 [Luxembourg Centre for systems biomedicine, University of Luxembourg]: https://wwwen.uni.lu/lcsb
 
-<h1>Papers</h1>
+<em><strong>Papers</strong></em>
 
 1. Recon3D enables a three-dimensional view of gene variation in human metabolism, E Brunk et al, 2018, Nature biotechnology
 2. When metabolism meets physiology: Harvey and Harvetta, I Thiele et al, 2018, bioRxiv 255885; doi: https://doi.org/10.1101/255885
