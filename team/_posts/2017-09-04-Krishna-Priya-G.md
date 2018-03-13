@@ -6,11 +6,11 @@ designation: PhD scholar, Department of Biotechnology, Bhupat & Jyoti Mehta Scho
 nickname: Krishna
 handle: krishnapriya 
 email: krishnapriya216@gmail.com
-interests: Gene-environment interaction, Translational regulation, Memory B-lymphocytes, Host-Pathogen interactions
+interests: Gene regulation, Memory B-lymphocytes, Host-Pathogen interactions
 image: /assets/images/people/Krishna_Priya.jpg
 github: 
 twitter: 
 alum: false
 ---
 
-I obtained my Masters in Biotechnology from Osmania University, Hyderabad. I worked at Centre for Cellular and Molecular Biology, Hyderabad as a Research assistant, on the project entitled "Analysis of generation of memory B lymphocytes" and also carried out host-pathogen interaction studies in Leishmania donavani. Presently, I am pursuing my Ph.D, under Dr. Himanshu Sinha, at Indian Institute of Technology - Madras, to understand the regulatory role of specialised ribosomes using yeast as a model system. 
+I obtained my Masters in Biotechnology from Osmania University, Hyderabad. I worked at Centre for Cellular and Molecular Biology, Hyderabad as a Research assistant, on the project entitled "Analysis of generation of memory B lymphocytes" and also carried out host-pathogen interaction studies in Leishmania donavani. Presently, I am pursuing my Ph.D, under Prof. G.K.Suraishkumar, at Indian Institute of Technology - Madras. 
