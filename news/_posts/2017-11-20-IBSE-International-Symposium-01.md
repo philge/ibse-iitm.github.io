@@ -19,7 +19,5 @@ Acknowledgements: IBSE is grateful to Dr. Prakash Arunachalam, Lead Data Scienti
 
 –	Himanshu Sinha & Karthik Raman (Co-Ordinators)
 
-For further details, visit the [symposium website](https://web.iitm.ac.in/ibse/symposium).
-
-For Gallery, please visit (https://photos.app.goo.gl/fL4PPCeSMiBQiS1m1)
+For further details, visit the [symposium website](https://web.iitm.ac.in/ibse/symposium) and the [Gallery](https://photos.app.goo.gl/fL4PPCeSMiBQiS1m1)
 
