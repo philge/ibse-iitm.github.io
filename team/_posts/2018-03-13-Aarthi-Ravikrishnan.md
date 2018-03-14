@@ -6,7 +6,7 @@ nickname: Aarthi
 handle: AR
 email: aarthi.ravikrishnan@smail.iitm.ac.in, aarthiravikrishnan@gmail.com
 interests: Algorithms, Networks, Graph-theory, Optimization, Metabolic Engineering 
-image: 
+image: /assets/images/people/Aarthi-Ravikrishnan.jpg
 github: 
 twitter: aarthiravikrish
 alum: false
