@@ -1,7 +1,7 @@
 ---
 title: Likith Reddy P
 position: student
-designation: Junior Research Fellow, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences and Department of Chemical Engineering
+designation: Junior Research Fellow, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences
 nickname: 
 handle: 
 email: pinnintilikithreddy@gmail.com
