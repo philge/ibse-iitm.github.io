@@ -7,7 +7,7 @@ nickname: Priyanka
 handle: 
 email: priyankamaripuri@gmail.com
 research interests : Epigenetics, Next Generation Sequencing, Gene regulation in specific cell types. 
-image: 
+image: /assets/images/people/Priyanka-Maripuri.jpg
 github: PriyankaMaripuri
 twitter: 
 alum: false
