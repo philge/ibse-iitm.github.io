@@ -1,12 +1,12 @@
 ---
 title: Aarthi Ravikrishnan
 position: student
-designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences and Department of Chemical Engineering
+designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences
 nickname: Aarthi
 handle: AR
 email: aarthi.ravikrishnan@smail.iitm.ac.in, aarthiravikrishnan@gmail.com
 interests: Algorithms, Networks, Graph-theory, Optimization, Metabolic Engineering 
-image: 
+image: /assets/images/people/Aarthi-Ravikrishnan.jpg
 github: 
 twitter: aarthiravikrish
 alum: false
