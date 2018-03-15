@@ -7,7 +7,7 @@ nickname:
 handle: 
 email: narayanvishnup@gmail.com
 interests: High Performance Computing, Systems Biology
-image: 
+image: /assets/images/people/vishnu.jpg
 github: 
 twitter: 
 alum: false
