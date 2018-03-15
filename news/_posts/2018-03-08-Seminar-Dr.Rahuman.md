@@ -6,7 +6,7 @@ author_handle:
 image: 
 category: news
 tags: [in the news]
-brief: IBSE is very pleased to introduce you all to our guest speaker Dr. Rahuman Sheriff. The title of his presentation will be: "Dynamics of cellular signalling networks: lessons from quantitative imaging"
+brief: IBSE is very pleased to introduce you all to our guest speaker Dr. Rahuman Sheriff. The title of his presentation will be "Dynamics of cellular signalling networks --- lessons from quantitative imaging"
 ---
 
 IBSE is very pleased to introduce you all to our guest speaker Dr. Rahuman Sheriff. The title of his presentation will be: "Dynamics of cellular signalling networks: lessons from quantitative imaging"

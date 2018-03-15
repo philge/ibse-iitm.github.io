@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Malvika Sudhakar
 position: student
 designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences and Department of Chemical Engineering
