@@ -6,7 +6,7 @@ designation: Project Associate, Department of Biotechnology, Bhupat & Jyoti Meht
 nickname: Priyanka
 handle: 
 email: priyankamaripuri@gmail.com
-research interests : Next Generation Sequencing, Epigenetics, Gene regulation in specific cell types. 
+interests : Next Generation Sequencing, Epigenetics, Gene regulation in specific cell types. 
 image: /assets/images/people/Priyanka-Maripuri.jpg
 github: PriyankaMaripuri
 twitter: 
