@@ -4,7 +4,7 @@ title: Priyanka Maripuri
 position: student
 designation: Project Associate, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences
 nickname: Priyanka
-handle: 
+handle: Priyanka 
 email: priyankamaripuri@gmail.com
 interests : Next Generation Sequencing, Epigenetics, Gene regulation in specific cell types. 
 image: /assets/images/people/Priyanka-Maripuri.jpg
