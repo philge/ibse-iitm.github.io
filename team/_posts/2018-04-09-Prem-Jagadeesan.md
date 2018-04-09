@@ -13,3 +13,5 @@ twitter:
 alum: false
 ---
 
+
+I did my Bachelors in Instrumentation and Control Engineering from Anna University followed by Masters in the same from SASTRA University. I have also worked as a research associate in the Department of  Electrical Engineering, IIT Madras for 8 months. My research interests are Parameter estimation, Data Science, System Identification and Control theory.
