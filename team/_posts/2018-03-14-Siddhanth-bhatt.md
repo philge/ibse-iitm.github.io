@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Siddhant Bhatt
 position: student
 designation: M.Tech Student, Department of Computer Science and Engineering
