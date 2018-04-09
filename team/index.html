@@ -45,7 +45,7 @@ navorder: 2
 <div class="bigspacer"></div>
 <hr/>
 {% for member in site.categories.team reversed %}
-	{% if member.alum == false and member.position != "student" %}
+	{% if member.staff == true and member.position != "student" %}
 	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
