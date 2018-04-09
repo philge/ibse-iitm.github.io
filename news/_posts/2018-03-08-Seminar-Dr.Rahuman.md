@@ -2,7 +2,7 @@
 layout: news
 title: "Seminar by Dr. Rahuman Sheriff"
 author: Priyanka Maripuri
-author_handle: 
+author_handle: Priyanka Maripuri
 image: 
 category: news
 tags: [in the news]
