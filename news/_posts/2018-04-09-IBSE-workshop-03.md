@@ -8,7 +8,7 @@ category: news
 tags: [workshop]
 brief: The 3rd IBSE In-house workshop will be held on 21 April 2018 at BT Seminar Hall. <a href="/news/IBSE-workshop-02">Schedule</a>
 ---
-IBSE in-house workshop to be held on 21 April 2018.
+IBSE In-house workshop to be held on 21 April 2018.
 
 <h2><span class =" label label-default">Venue: BT Seminar Hall</span></h2>
 
