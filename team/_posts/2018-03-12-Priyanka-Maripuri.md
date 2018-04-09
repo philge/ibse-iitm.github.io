@@ -9,7 +9,7 @@ email: priyankamaripuri@gmail.com
 interests : Next Generation Sequencing, Epigenetics, Gene regulation in specific cell types. 
 image: /assets/images/people/Priyanka-Maripuri.jpg
 github: PriyankaMaripuri
-twitter: 
+twitter: PriyankaMarpuri
 alum: false
 ---
 
