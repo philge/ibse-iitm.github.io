@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Philge Philip
-position: Staff
-designation: Senior Project Officer, IBSE & Robert Bosch Center Data Science and Artificial Intelligence.
+position: Senior Project Officer
+designation: IBSE & Robert Bosch Center Data Science and Artificial Intelligence.
 department: Department of Computer Science and Engineering
 nickname: 
 handle: 
