@@ -1,12 +1,12 @@
 ---
 layout: news
-title: "3rd IBSE Workshop Announcement"
+title: "IBSE 3rd Workshop"
 author: Priyanka Maripuri
 author_handle: Priyanka
 image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
-brief: The 3rd IBSE In-house workshop will be held on 21 April 2018 at BT Seminar Hall. 
+brief: The 3rd IBSE In-house Workshop will be held on 21 April 2018 at BT Seminar Hall. 
 ---
 IBSE In-house workshop to be held on 21 April 2018.
 
