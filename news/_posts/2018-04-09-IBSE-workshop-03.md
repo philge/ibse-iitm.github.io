@@ -17,7 +17,6 @@ IBSE In-house workshop to be held on 21 April 2018.
 If you wish to attend this workshop, please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeG17rW86A03corwF1ypXW_yqX9WprrZY4yvTYJf0SKRWj7WA/viewform) by 18 April 2018.
 
 | 0930&nbsp;-&nbsp;1030 | Talk by Dr. Manikandan Narayanan |
-
 | 1030 - 1100 | Coffee break |  
 | 1100 - 1245 | Student Talks |
 
