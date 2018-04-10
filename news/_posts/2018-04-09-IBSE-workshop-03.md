@@ -1,12 +1,12 @@
 ---
 layout: news
 title: "3rd IBSE Workshop Announcement"
-author: "Priyanka Maripuri"
-author_handle: "Priyanka Maripuri"
+author: Priyanka Maripuri
+author_handle: Priyanka
 image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
-brief: The 3rd IBSE In-house workshop will be held on 21 April 2018 at BT Seminar Hall. <a href="/news/IBSE-workshop-03">Schedule</a>
+brief: The 3rd IBSE In-house workshop will be held on 21 April 2018 at BT Seminar Hall. 
 ---
 IBSE In-house workshop to be held on 21 April 2018.
 
@@ -15,5 +15,9 @@ IBSE In-house workshop to be held on 21 April 2018.
 3rd IBSE Workshop is being held on 21 April 2018 from 9.30 am to 12.30 pm at BT Seminar Hall.  
 
 If you wish to attend this workshop, please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeG17rW86A03corwF1ypXW_yqX9WprrZY4yvTYJf0SKRWj7WA/viewform) by 18 April 2018.
+
+| 0930&nbsp;-&nbsp;1030 | Talk by Dr. Manikandan Narayanan |
+| 1030 - 1100 | Coffee break |  
+| 1100 - 1245 | Student Talks |
 
 {:.mbtablestyle}
