@@ -7,7 +7,7 @@ nickname:
 handle: 
 email:   siddbhatt93@gmail.com
 interests: Algorithms, Computational Biology
-image: /assets/images/people/siddhanthbhatt.jpg
+image: /assets/images/people/Siddhanth-Bhatt.jpg
 github: 
 twitter: 
 alum: false
