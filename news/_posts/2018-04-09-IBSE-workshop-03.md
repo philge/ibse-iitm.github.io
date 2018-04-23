@@ -19,7 +19,7 @@ IBSE In-house workshop to be held on 21 April 2018.
 | 1130 - 1145 | Identifying driver genes from a Pan-cancer study | Shayantan Banerjee |
 | 1145 - 1200 |  Determining the role of ribosomal protein genes in phenotypic diversity and adaptation | Purnima K V K |
 | 1200 - 1215 |  Mining evolutionary gene expression patterns in mammalian tissues | Gaurav Bilolikar |
-| 1215 - 1230 |  Graph-theoretic and experimental framework to understand metabolic interactions in microbial communities | Aarthi Ravikrishnan |
+| 1215 - 1230 |  Understanding microbial interactions in communities through an integrated computational and experimental framework | Aarthi Ravikrishnan |
 | 1230 - 1245 |  Systematic comparison of NGS pipelines using five gold standard datasets | Likith Reddy P |
 | 1245 - 1300 |  Designing Modular Gene Circuits | Saransh Umale |
 {:.mbtablestyle}
